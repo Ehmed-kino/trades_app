@@ -1,5 +1,7 @@
 # trades_app
 
+This is a test from a job test for Data analysis in python
+
 ## To run the application
 
 create the following paths
